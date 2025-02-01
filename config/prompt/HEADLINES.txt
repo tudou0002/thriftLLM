@@ -1,0 +1,8 @@
+Please determine the price direction (up, down, neutral, or none) in the following news headlines.
+
+Q: december gold down $1 at $749 an ounce on nymex
+A: down
+
+Q: commodity outlook: gold may find it tough to top 30,920 level
+A: none
+

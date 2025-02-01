@@ -1,0 +1,18 @@
+Select the option that can best answer the question based on the context, answer with the option number concisely.
+
+Context: Terrestrial ecosystems, also known for their diversity, are grouped into large categories called biomes. A biome is a largescale community of organisms, primarily defined on land by the dominant plant types that exist in geographic regions of the planet with similar climatic conditions. Examples of biomes include tropical rainforests, savannas, deserts, grasslands, temperate forests, and tundras. Grouping these ecosystems into just a few biome categories obscures the great diversity of the individual ecosystems within them. For example, the saguaro cacti (Carnegiea gigantean) and other plant life in the Sonoran Desert, in the United States, are relatively diverse compared with the desolate rocky desert of Boa Vista, an island off the coast of Western Africa (Figure 20.3).
+Question: Terrestrial ecosystems, also known for their diversity, are grouped into large categories called what?
+0. bisomes
+1. substrates
+2. biomes
+3. monomes
+Answer: 2
+
+Context: The modern day formulation of gun powder is called black powder. It is still commonly used today. Its formulation is still quite similar to what was used in 9 th century China. Black powder is considered a low explosive. It is a mixture that burns quickly, but the resulting shock wave travels at subsonic speeds. The speed at which it burns is dependent on the accessibility of oxygen atoms to the carbon source. In contrast, high explosives like nitroglycerin detonate instead of burning, creating shock waves that are supersonic (faster than the speed of sound).
+Question: High explosives create shock waves that exceed the speed of sound, a phenomenon that goes by what term?
+0. turbulence
+1. supersonic
+2. ion speed
+3. light speed
+Answer: 1
+

@@ -1,0 +1,2 @@
+Do the two product descriptions refer to the same real-world product? Answer with 'Yes' if they do and 'No' if they do not.
+

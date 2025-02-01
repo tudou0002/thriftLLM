@@ -1,0 +1,8 @@
+Please answer which category (World, Sports, Business or Sci/Tech) a provided news follows into.
+
+Q: Five-year ban for Blackburn fan One of the two Blackburn Rovers Football Club fans charged with public disorder for racially abusing Dwight Yorke has been handed a five-year ban.
+A: Sports
+
+Q: Major software pirates caught A multimillion-euro software piracy ring has been broken following synchronized raids in Athens and London yesterday, Attica police said.
+A: Sci/Tech
+

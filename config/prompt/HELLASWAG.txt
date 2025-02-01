@@ -1,0 +1,16 @@
+Select the option that can best complete a context paragraph using common-sense reasoning, answer with the option number concisely.
+
+Context: A female chef in white uniform shows a stack of baking pans in a large kitchen presenting them. the pans
+0. contain egg yolks and baking soda.
+1. are then sprinkled with brown sugar.
+2. are placed in a strainer on the counter.
+3. are filled with pastries and loaded into the oven.
+Answer: 3
+
+Context: He scrubs in the shampoo and then washes it off. He then combs it and blow dries his hair after styling it with gel. he
+0. then rinses it off in the sink.
+1. lets his hair down, giving it a final blow dry before putting it next to his face.
+2. uses an electric clipper to groom the sideburns and the temples.
+3. then sprays some liquid on his hair.
+Answer: 2
+
